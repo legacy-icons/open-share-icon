@@ -17,9 +17,6 @@
   "bugs": {
     "url": "https://github.com/T1st3/open-share-icon/issues"
   },
-  "files": [
-    "./img"
-  ],
   "engines": {
     "node": ">= 0.10.0"
   },
