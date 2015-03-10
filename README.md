@@ -109,4 +109,4 @@ bower install open-share-icon
 
 **Composer / Packagist**
 
-[open-share-icon on Packagist](https://packagist.org/packages/T1st3/open-share-icon)
+[open-share-icon on Packagist](https://packagist.org/packages/t1st3/open-share-icon)
