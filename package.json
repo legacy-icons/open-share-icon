@@ -1,0 +1,31 @@
+{
+  "name": "open-share-icon",
+  "version": "0.1.0",
+  "homepage": "https://github.com/T1st3/open-share-icon",
+  "description": "Open-Share-Icon",
+  "keywords": [
+    "icon",
+    "silk",
+    "img",
+    "famfamfam",
+    "png",
+    "gif"
+  ],
+  "license": "MIT",
+  "author": "t1st3 <contact@tiste.org> (http://www.tiste.org/)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/T1st3/open-share-icon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/T1st3/open-share-icon/issues"
+  },
+  "files": [
+    "./img"
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
