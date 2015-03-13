@@ -2,6 +2,11 @@ open-share-icon
 ===============
 
 
+[![NPM version](https://img.shields.io/npm/v/open-share-icon.svg)](https://www.npmjs.org/package/open-share-icon)
+[![Bower version](https://img.shields.io/bower/v/open-share-icon.svg)](http://bower.io/search/?q=open-share-icon)
+[![Packagist version](https://img.shields.io/packagist/v/t1st3/open-share-icon.svg)](https://packagist.org/packages/t1st3/open-share-icon)
+
+
 About
 ----------
 
