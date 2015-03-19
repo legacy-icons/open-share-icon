@@ -118,8 +118,12 @@ bower install open-share-icon
 
 
 
-Dev dependencies (NPM)
+
+Dev dependencies and build status
 ----------
 
-
 [![Dependency Status](https://img.shields.io/david/dev/T1st3/open-share-icon.svg)](https://david-dm.org/t1st3/open-share-icon)
+[![Build Status](https://img.shields.io/travis/T1st3/open-share-icon.svg)](https://travis-ci.org/T1st3/open-share-icon)
+
+
+
