@@ -5,6 +5,10 @@ open-share-icon
 [![NPM version](https://img.shields.io/npm/v/open-share-icon.svg)](https://www.npmjs.org/package/open-share-icon)
 [![Bower version](https://img.shields.io/bower/v/open-share-icon.svg)](http://bower.io/search/?q=open-share-icon)
 [![Packagist version](https://img.shields.io/packagist/v/t1st3/open-share-icon.svg)](https://packagist.org/packages/t1st3/open-share-icon)
+[![Nuget version](https://img.shields.io/nuget/v/open-share-icon.svg)](https://www.nuget.org/packages/open-share-icon/)
+
+[![Dependency Status](https://img.shields.io/david/dev/T1st3/open-share-icon.svg)](https://david-dm.org/t1st3/open-share-icon)
+[![Build Status](https://img.shields.io/travis/T1st3/open-share-icon.svg)](https://travis-ci.org/T1st3/open-share-icon)
 
 
 About
@@ -19,6 +23,7 @@ The aim of this project is to make this icon pack available through various pack
 - [NPM](https://npmjs.org)
 - [Bower](http://bower.io)
 - [Packagist](https://packagist.org)
+- [NuGet](https://www.nuget.org)
 
 
 
@@ -75,10 +80,6 @@ Note that the above guidelines are not intended to restrict the ways in which th
 
 
 
-
-
-
-
 About the rest (all this repository but the icons)
 ----------
 
@@ -93,8 +94,6 @@ Get the package
 ----------
 
 **NPM**
-
-[open-share-icon on NPM](https://www.npmjs.org/package/open-share-icon)
 
 Get it with:
 
@@ -114,16 +113,18 @@ bower install open-share-icon
 
 **Composer / Packagist**
 
-[open-share-icon on Packagist](https://packagist.org/packages/t1st3/open-share-icon)
+Get it with:
+
+```
+composer require t1st3/open-share-icon
+```
 
 
+**NuGet**
 
+Get it with:
 
-Dev dependencies and build status
-----------
-
-[![Dependency Status](https://img.shields.io/david/dev/T1st3/open-share-icon.svg)](https://david-dm.org/t1st3/open-share-icon)
-[![Build Status](https://img.shields.io/travis/T1st3/open-share-icon.svg)](https://travis-ci.org/T1st3/open-share-icon)
-
-
+```
+Install-Package open-share-icon
+```
 
