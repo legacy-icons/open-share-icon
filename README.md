@@ -127,4 +127,3 @@ Get it with:
 ```
 Install-Package open-share-icon
 ```
-
