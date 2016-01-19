@@ -2,11 +2,7 @@
 
 var pkg = require('./package.json'),
 
-fs = require('fs'),
-path = require('path'),
-
 chalk = require('chalk'),
-del = require('del'),
 somebody = require('somebody'),
 pkgAuthor = somebody.parse(pkg.author),
 
@@ -45,4 +41,4 @@ gulp.task('info', [], function (cb) {
   cb();
 });
 
-gulp.task('default', ['info', 'build']);
+gulp.task('default', ['info']);
