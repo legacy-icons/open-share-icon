@@ -7,9 +7,6 @@ open-share-icon
 [![Packagist version](https://img.shields.io/packagist/v/t1st3/open-share-icon.svg)](https://packagist.org/packages/t1st3/open-share-icon)
 [![Nuget version](https://img.shields.io/nuget/v/open-share-icon.svg)](https://www.nuget.org/packages/open-share-icon/)
 
-[![Dependency Status](https://img.shields.io/david/dev/T1st3/open-share-icon.svg)](https://david-dm.org/t1st3/open-share-icon)
-[![Build Status](https://img.shields.io/travis/T1st3/open-share-icon.svg)](https://travis-ci.org/T1st3/open-share-icon)
-
 
 About
 ----------
