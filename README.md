@@ -26,6 +26,43 @@ The aim of this project is to make this icon pack available through various pack
 - [NuGet](https://www.nuget.org)
 
 
+Get the package
+----------
+
+**NPM**
+
+Get it with:
+
+```
+npm install open-share-icon
+```
+
+
+**Bower**
+
+Get it with:
+
+```
+bower install open-share-icon
+```
+
+
+**Composer / Packagist**
+
+Get it with:
+
+```
+composer require t1st3/open-share-icon
+```
+
+
+**NuGet**
+
+Get it with:
+
+```
+Install-Package open-share-icon
+```
 
 
 Original readme (from author of the icons)
@@ -87,43 +124,3 @@ All the content of this repository (excepted the icon pack)
 is licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 Though, it is just composed a few trivial json files and a Readme.
-
-
-
-Get the package
-----------
-
-**NPM**
-
-Get it with:
-
-```
-npm install open-share-icon
-```
-
-
-**Bower**
-
-Get it with:
-
-```
-bower install open-share-icon
-```
-
-
-**Composer / Packagist**
-
-Get it with:
-
-```
-composer require t1st3/open-share-icon
-```
-
-
-**NuGet**
-
-Get it with:
-
-```
-Install-Package open-share-icon
-```
