@@ -1,6 +1,15 @@
 ## Change Log
 
-### upcoming (2015/12/31 14:41 +00:00)
+### 0.1.7 (2016/01/19 10:52 +00:00)
+- [8d2ef2b](https://github.com/T1st3/open-share-icon/commit/8d2ef2bb02e3c7b1d85850fbb0981747ad655523) chore: v0.1.7 (@T1st3)
+- [980dd2e](https://github.com/T1st3/open-share-icon/commit/980dd2e71f011e6d5f5516ab8298b710bc58130b) chore: remove travis and david badges (@T1st3)
+- [3ec7443](https://github.com/T1st3/open-share-icon/commit/3ec7443af7a5cd60f92ce1fde8655d2a4705fdb2) chore: update license to cc-by-sa-3.0 (@T1st3)
+- [73f77d8](https://github.com/T1st3/open-share-icon/commit/73f77d8e0a28371ba7340d96df7bfc65a11d4cb0) docs: move license and usage guidelines to bottom of readme (@T1st3)
+- [66d11c3](https://github.com/T1st3/open-share-icon/commit/66d11c3d0dadacfef19b67720826a38cf95a902c) chore: update deps versions with caret ranges (@T1st3)
+- [a3d4b97](https://github.com/T1st3/open-share-icon/commit/a3d4b97a81c6da1fc19af02090582a1b0ac972f4) chore: remove unused deps and tasks (@T1st3)
+- [513305a](https://github.com/T1st3/open-share-icon/commit/513305aae30f2d1e701ed2a868504382cdd45eba) chore: remove figlets, cowsays and notifications (@T1st3)
+- [bf8dc6f](https://github.com/T1st3/open-share-icon/commit/bf8dc6f00e1ba637f1e7eb4c921e04f79aa256d7) chore: add newline at end of config and .md files (@T1st3)
+- [065eeeb](https://github.com/T1st3/open-share-icon/commit/065eeebcc958a012ddde600571d89e94be3f5501) docs: add CHANGELOG.md (@T1st3)
 - [#2](https://github.com/t1st3/open-share-icon/pull/2) chore(package): update gulp-minify-css to version 1.2.3 (@T1st3)
 - [c6e0d8b](https://github.com/T1st3/open-share-icon/commit/c6e0d8b82d93e95e3c59d8e767c29fcaa2c11dc8) chore(package): update gulp-minify-css to version 1.2.3 (@greenkeeperio-bot)
 
