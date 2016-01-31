@@ -4,15 +4,15 @@
     <id>open-share-icon</id>
     <version>0.1</version>
     <title>Open-Share-Icon</title>
-    <authors>T1st3</authors>
+    <authors>t1st3</authors>
     <owners>t1st3</owners>
     <description>Open-Share-Icon, made available in various package managers</description>
-    <releaseNotes>https://github.com/T1st3/open-share-icon/releases</releaseNotes>
+    <releaseNotes>https://github.com/t1st3/open-share-icon/releases</releaseNotes>
     <summary>Open-Share-Icon</summary>
     <language>en-us</language>
-    <projectUrl>https://github.com/T1st3/open-share-icon</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/T1st3/open-share-icon/master/png/open-share-icon-64x64.png</iconUrl>
-    <licenseUrl>https://github.com/T1st3/open-share-icon#original-readme-from-author-of-the-icons</licenseUrl>
+    <projectUrl>https://github.com/t1st3/open-share-icon</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/t1st3/open-share-icon/master/png/open-share-icon-64x64.png</iconUrl>
+    <licenseUrl>https://github.com/t1st3/open-share-icon#original-readme-from-author-of-the-icons</licenseUrl>
     <copyright>Copyright 2015</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <dependencies>
