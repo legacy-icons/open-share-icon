@@ -1,6 +1,7 @@
 ## Change Log
 
 ### 0.1.8 (2016/02/15 09:51 +00:00)
+- [3ca774b](https://github.com/legacy-icons/open-share-icon/commit/3ca774b88f04c3276573703b990500acc9a92a14) chore: v0.1.8 (@t1st3)
 - [#3](https://github.com/legacy-icons/open-share-icon/pull/3) chore(package): update gulp to version 3.9.1 (@t1st3)
 - [a50e6ee](https://github.com/legacy-icons/open-share-icon/commit/a50e6ee2f30ebec0ef1ab835b2348623ffb3ab93) chore(package): update gulp to version 3.9.1 (@greenkeeperio-bot)
 - [da16ef3](https://github.com/legacy-icons/open-share-icon/commit/da16ef3183913b8c28a26c73fcaa313227389e41) docs: update README structure (@t1st3)
