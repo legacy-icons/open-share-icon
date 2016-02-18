@@ -12,7 +12,7 @@
     <language>en-us</language>
     <projectUrl>https://github.com/legacy-icons/open-share-icon</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/legacy-icons/open-share-icon/master/png/open-share-icon-64x64.png</iconUrl>
-    <licenseUrl>https://github.com/legacy-icons/open-share-icon/LICENSE.md</licenseUrl>
+    <licenseUrl>https://github.com/legacy-icons/open-share-icon/blob/master/LICENSE.md</licenseUrl>
     <copyright>Copyright 2015</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <dependencies>
