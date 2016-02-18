@@ -1,6 +1,6 @@
 {
-  "name": "t1st3/open-share-icon",
-  "homepage": "https://github.com/t1st3/open-share-icon",
+  "name": "legacy-icons/open-share-icon",
+  "homepage": "https://github.com/legacy-icons/open-share-icon",
   "description": "Open-Share-Icon",
   "keywords": [
     "icon",
@@ -17,7 +17,7 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/t1st3/open-share-icon/issues/"
+    "issues": "https://github.com/legacy-icons/open-share-icon/issues/"
   },
   "type": "library",
   "extra": {
