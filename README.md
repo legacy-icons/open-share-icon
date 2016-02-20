@@ -11,7 +11,9 @@
 
 The Open-Share-Icon, as available on [Open-Share-Icon website](https://www.shareaholic.com/openshareicon).
 
-All credits for these icons go to their original author: Shareaholic
+All credits for these icons go to their original author: Shareaholic.
+
+This is the `open-share-icon`: ![open-share-icon](https://github.com/legacy-icons/open-share-icon/blob/master/png/open-share-icon-64x64.png).
 
 The aim of this project is to make this icon pack available through various package managers, such as:
 
